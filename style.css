@@ -1,0 +1,704 @@
+/* body background beginning */
+.body1{
+    font-family: League Spartan,arial;
+    background-color: hsl(224, 36%, 15%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+
+}
+
+.body2{
+    font-family: League Spartan,arial;
+    background-color:hsl(0, 0%, 93%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+
+}
+
+.body3{
+    font-family: League Spartan,arial;
+    background-color: hsl(268, 71%, 12%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+
+}
+
+/* body background ending */
+
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between ;
+    align-items: center;
+    width: 430px;
+    height: 25px;
+    margin-bottom: 10px;
+}
+/* paragragh heading beginning */
+.p1{
+    font-size: 8px;
+    font-weight: 700;
+    color: hsl(0, 0%, 100%);
+}
+
+.p2{
+    font-size: 8px;
+    font-weight: 700;
+    color: hsl(60, 10%, 19%);
+}
+
+.p3{
+    font-size: 8px;
+    font-weight: 700;
+    color: hsl(52, 100%, 62%);
+}
+
+/* paragraph heading ending */
+/* h3 themes */
+.first-h3{
+    color:hsl(0, 0%, 100%);
+    font-weight: 700;
+}
+
+.second-h3{
+    color:hsl(60, 10%, 19%);
+    font-weight: 700;
+}
+
+.third-h3{
+    color:hsl(52, 100%, 62%);
+    font-weight: 700;
+}
+
+/* h3 theme ending */
+/* theme beginning */
+
+.label{
+    display: flex;
+    flex-direction: row;
+}
+
+.st-dv-hdr-neutral{
+    background-color: transparent;
+    width: 15px;
+    height: 15px;
+    border-radius: 100px;
+    cursor: pointer;
+}
+
+.st-dv1-hdr{
+    background-color: hsl(6, 70%, 34%);
+    width: 15px;
+    height: 15px;
+    border-radius: 100px;
+    cursor: pointer;
+}
+
+.st-dv2-hdr{
+    background-color: hsl(25, 98%, 40%);
+    width: 15px;
+    height: 15px;
+    border-radius: 100px;
+    cursor: pointer;
+}
+
+.st-dv3-hdr{
+    background-color: hsl(177, 92%, 70%);
+    width: 15px;
+    height: 15px;
+    border-radius: 100px;
+    cursor: pointer;
+}
+
+/* theme ending */
+
+/* theme background */
+.theme1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 60px;
+    background-color: hsl(223, 31%, 20%);
+    padding: 3px;
+    border-radius: 100px;
+}
+
+.theme2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 60px;
+    background-color: hsl(0, 5%, 81%);
+    padding: 3px;
+    border-radius: 100px;
+}
+
+.theme3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 60px;
+    background-color: hsl(268, 47%, 21%);
+    padding: 3px;
+    border-radius: 100px;
+}
+
+/* theme background ending */
+
+
+/* header theme background beginning */
+.header1{
+  background-color: hsl(223, 31%, 20%);
+  padding: 10px 15px 10px 300px;
+  border-radius: 10px;
+}
+
+.header2{
+    background-color: hsl(0, 5%, 81%);
+    padding: 10px 15px 10px 300px;
+    border-radius: 10px;
+  }
+
+.header3{
+    background-color: hsl(268, 47%, 21%);
+    padding: 10px 15px 10px 300px;
+    border-radius: 10px;
+  }
+
+/* header theme backgrouund ending */
+/* h1 background color change */
+.first-h1{
+    font-size: 32px;
+    color: hsl(0, 0%, 100%);
+}
+
+.second-h1{
+    font-size: 32px;
+    color: hsl(60, 10%, 19%);
+}
+
+.third-h1{
+    font-size: 32px;
+    color: hsl(52, 100%, 62%);
+}
+/* h1 background color change ending */
+
+
+/* main background color theme */
+.main1{
+    padding: 5px ;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    font-weight: 700;
+    background-color: hsl(222, 26%, 31%);
+    margin-top: 10px;
+    width: 415px;
+}
+
+.main2{
+    padding: 5px ;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    font-weight: 700;
+    background-color: hsl(0, 0%, 90%);
+    margin-top: 10px;
+    width: 415px;
+}
+
+.main3{
+    padding: 5px ;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    font-weight: 700;
+    background-color: hsl(268, 75%, 9%);
+    margin-top: 10px;
+    width: 415px;
+}
+
+/* main background color ending */
+
+
+.main-div{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+/* beginning of th ebutton section */
+.btn1{
+    color:  hsl(224, 36%, 15%);
+    background-color: hsl(0, 0%, 100%);
+    font-size:32px;
+    font-weight: 700;
+    flex: 1;
+    margin: 15px 15px 0 15px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: inset 0 -7px 3px 0 hsl(30, 5%, 77%);
+}
+
+.btn1:hover{
+    background-color: hsl(0, 5%, 89%);
+    cursor: pointer;
+}
+
+.btn2{
+    color:  hsl(60, 10%, 19%);
+    background-color: hsl(45, 7%, 89%);
+    font-size:32px;
+    font-weight: 700;
+    flex: 1;
+    margin: 15px 15px 0 15px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: inset 0 -7px 3px 0 hsl(30, 5%, 77%);
+}
+
+.btn2:hover{
+    background-color: hsl(0, 100%, 99%);
+    cursor: pointer;
+}
+
+.btn3{
+    color: hsl(52, 100%, 62%);
+    background-color: hsl(281, 89%, 26%);
+    font-size:32px;
+    font-weight: 700;
+    flex: 1;
+    margin: 15px 15px 0 15px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: inset 0 -7px 3px 0  hsl(281, 100%, 49%);
+}
+
+.btn3:hover{
+    background-color: hsl(281, 81%, 22%);
+    cursor: pointer;
+}
+/* ending of button section */
+
+/* reset background theme begginning */
+.reset1{
+    background-color:  hsl(225, 21%, 49%);
+    color: hsl(0, 0%, 100%);
+    font-size:20px;
+    font-weight: 700;
+    flex: 1;
+    padding: 9px 0;
+    margin: 15px 15px 0 15px;
+    border-radius: 10px;
+    border: none;
+    margin-bottom: 30px;
+    box-shadow: inset 0 -5px 3px 0   hsl(230, 26%, 68%);
+}
+
+.reset1:hover{
+    background-color:  hsl(226, 31%, 70%);
+    box-shadow: inset 0 -5px 3px 0   hsl(229, 17%, 45%);
+    cursor: pointer;
+}
+
+.reset2{
+    color:  hsl(0, 0%, 100%);
+    background-color:hsl(185, 42%, 37%);
+    font-size:20px;
+    font-weight: 700;
+    flex: 1;
+    margin: 15px 15px 0 15px;
+    border-radius: 10px;
+    border: none;
+    padding: 9px 0;
+    margin-bottom: 30px;
+    box-shadow: inset 0 -5px 3px 0 hsl(185, 46%, 54%);
+}
+
+.reset2:hover{
+    box-shadow: inset 0 -5px 3px 0 hsl(185, 48%, 26%);
+    background-color: hsl(185, 71%, 41%);
+    cursor: pointer;
+}
+
+.reset3{
+    color:  hsl(0, 0%, 100%);
+    background-color:hsl(268, 47%, 21%);
+    font-size:20px;
+    font-weight: 700;
+    flex: 1;
+    margin: 15px 15px 0 15px;
+    border-radius: 10px;
+    border: none;
+    padding: 9px 0;
+    margin-bottom:30px ;
+    box-shadow: inset 0 -5px 3px 0 hsl(268, 49%, 40%);
+}
+
+.reset3:hover{
+    box-shadow: inset 0 -5px 3px 0 hsl(268, 52%, 56%);
+    background-color:  hsl(268, 71%, 26%);
+    cursor: pointer;
+}
+/* reset background theme ending */
+
+/* equal-to background theme beginning */
+.equal-to1{
+    color:  hsl(0, 0%, 100%);
+    background-color:hsl(6, 70%, 34%);
+    font-size:20px;
+    font-weight: 700;
+    flex: 1;
+    margin: 15px 15px 0 15px;
+    border-radius: 10px;
+    border: none;
+    padding: 9px 0;
+    margin-bottom:30px;
+    box-shadow: inset 0 -5px 3px 0 hsl(0, 98%, 25%) ;
+}
+
+.equal-to1:hover{
+    box-shadow: inset 0 -5px 3px 0 hsl(6, 70%, 34%) ;
+    background-color:  hsl(0, 98%, 25%);
+    cursor: pointer;
+}
+
+.equal-to2{
+    background-color:hsl(25, 98%, 40%);
+    color: hsl(0, 0%, 100%);
+    font-size:32px;
+    font-weight: 700;
+    flex: 1;
+    margin: 15px 15px 0 15px;
+    border-radius: 10px;
+    border: none;
+    margin-bottom: 30px;
+    box-shadow: inset 0 -5px 3px 0 hsl(25, 98%, 53%);
+}
+
+.equal-to2:hover{
+    box-shadow: inset 0 -5px 3px 0 hsl(25, 99%, 33%);
+    background-color:hsl(25, 87%, 46%);
+    cursor: pointer;
+}
+
+.equal-to3{
+    background-color:  hsl(176, 100%, 44%);
+    color: hsl(198, 20%, 13%);
+    font-size:32px;
+    font-weight: 700;
+    flex: 1;
+    margin: 15px 15px 0 15px;
+    border-radius: 10px;
+    border: none;
+    margin-bottom: 30px;
+}
+
+.equal-to3:hover{
+    background-color:  hsl(176, 90%, 51%);
+    cursor: pointer;
+}
+
+/* equal-to background themes ending */
+
+
+/* del background theme beginning */
+.del1{
+    background-color:  hsl(225, 21%, 49%);
+    color: hsl(0, 0%, 100%);
+    font-size:20px;
+    font-weight: 700;
+    flex: 1;
+    margin: 15px 15px 0 15px;
+    border-radius: 10px;
+    border: none;
+    padding: 9px 6px;
+    box-shadow: inset 0 -5px 3px 0   hsl(230, 26%, 68%);
+}
+
+.del1:hover{
+    box-shadow: inset 0 -5px 3px 0   hsl(229, 17%, 45%);
+    background-color:  hsl(226, 31%, 70%);
+    cursor: pointer;
+}
+
+.del2{
+    background-color:  hsl(185, 42%, 37%);
+    color: hsl(0, 0%, 100%);
+    font-size:20px;
+    font-weight: 700;
+    flex: 1;
+    margin: 15px 15px 0 15px;
+    border-radius: 10px;
+    border: none;
+    padding: 9px 6px;
+    box-shadow: inset 0 -5px 3px 0 hsl(185, 46%, 54%);
+}
+
+.del2:hover{
+    box-shadow: inset 0 -5px 3px 0 hsl(185, 48%, 26%);
+    background-color: hsl(185, 76%, 36%);
+    cursor: pointer;
+}
+.del3{
+    background-color:  hsl(268, 47%, 21%);
+    color: hsl(0, 0%, 100%);
+    font-size:20px;
+    font-weight: 700;
+    flex: 1;
+    margin: 15px 15px 0 15px;
+    border-radius: 10px;
+    border: none;
+    padding: 9px 6px;
+    box-shadow: inset 0 -5px 3px 0 hsl(268, 49%, 40%);
+}
+
+.del3:hover{
+    box-shadow: inset 0 -5px 3px 0 hsl(268, 52%, 56%);
+    background-color:  hsl(268, 71%, 26%);
+    cursor: pointer;
+}
+
+/* del background theme ending */
+
+.the1{
+    color:hsl(0, 0%, 100%) ;
+    padding: 0;
+    margin: 0;
+    font-weight: 700;
+    text-align: end;
+    margin-left:370px;
+    letter-spacing: 6px;
+    font-size: 8px;
+}
+
+.the2{
+    color:hsl(60, 10%, 19%);
+    padding: 0;
+    margin: 0;
+    font-weight: 700;
+    text-align: end;
+    margin-left:370px;
+    letter-spacing: 6px;
+    font-size: 8px;
+}
+
+.the3{
+    color: hsl(52, 100%, 62%) ;
+    padding: 0;
+    margin: 0;
+    font-weight: 700;
+    text-align: end;
+    margin-left:370px;
+    letter-spacing: 6px;
+    font-size: 8px;
+}
+
+@media screen and (max-width:548px){
+    .main1{
+        padding: 5px ;
+        border-radius: 10px;
+        display: flex;
+        flex-direction: column;
+        font-weight: 700;
+        background-color: hsl(222, 26%, 31%);
+        margin-top: 10px;
+        width: 370px;
+    }
+    
+    .main2{
+        padding: 5px ;
+        border-radius: 10px;
+        display: flex;
+        flex-direction: column;
+        font-weight: 700;
+        background-color: hsl(0, 0%, 90%);
+        margin-top: 10px;
+        width: 370px;
+    }
+    
+    .main3{
+        padding: 5px ;
+        border-radius: 10px;
+        display: flex;
+        flex-direction: column;
+        font-weight: 700;
+        background-color: hsl(268, 75%, 9%);
+        margin-top: 10px;
+        width: 370px;
+    }
+
+    .header1{
+        background-color: hsl(223, 31%, 20%);
+        padding: 10px 15px 10px 250px;
+        border-radius: 10px;
+      }
+      
+      .header2{
+          background-color: hsl(0, 5%, 81%);
+          padding: 10px 15px 10px 250px;
+          border-radius: 10px;
+        }
+      
+      .header3{
+          background-color: hsl(268, 47%, 21%);
+          padding: 10px 15px 10px 250px;
+          border-radius: 10px;
+        }
+
+        nav{
+            display: flex;
+            flex-direction: row;
+            justify-content:space-between ;
+            align-items: center;
+            width: 380px;
+            height: 25px;
+            margin-bottom: 10px;
+        }
+
+        .the1{
+            color:hsl(0, 0%, 100%) ;
+            padding: 0;
+            margin: 0;
+            font-weight: 700;
+            text-align: end;
+            margin-left:320px;
+            letter-spacing: 8px;
+            font-size: 8px;
+        }
+        
+        .the2{
+            color:hsl(60, 10%, 19%);
+            padding: 0;
+            margin: 0;
+            font-weight: 700;
+            text-align: end;
+            margin-left:320px;
+            letter-spacing: 8px;
+            font-size: 8px;
+        }
+        
+        .the3{
+            color: hsl(52, 100%, 62%) ;
+            padding: 0;
+            margin: 0;
+            font-weight: 700;
+            text-align: end;
+            margin-left:320px;
+            letter-spacing: 8px;
+            font-size: 8px;
+        }
+}
+
+
+
+
+
+
+@media screen and (max-width:396px){
+    .main1{
+        padding: 5px ;
+        border-radius: 10px;
+        display: flex;
+        flex-direction: column;
+        font-weight: 700;
+        background-color: hsl(222, 26%, 31%);
+        margin-top: 10px;
+        width: 350px;
+    }
+    
+    .main2{
+        padding: 5px ;
+        border-radius: 10px;
+        display: flex;
+        flex-direction: column;
+        font-weight: 700;
+        background-color: hsl(0, 0%, 90%);
+        margin-top: 10px;
+        width: 350px;
+    }
+    
+    .main3{
+        padding: 5px ;
+        border-radius: 10px;
+        display: flex;
+        flex-direction: column;
+        font-weight: 700;
+        background-color: hsl(268, 75%, 9%);
+        margin-top: 10px;
+        width: 350px;
+    }
+
+    .header1{
+        background-color: hsl(223, 31%, 20%);
+        padding: 10px 15px 10px 230px;
+        border-radius: 10px;
+      }
+      
+      .header2{
+          background-color: hsl(0, 5%, 81%);
+          padding: 10px 15px 10px 230px;
+          border-radius: 10px;
+        }
+      
+      .header3{
+          background-color: hsl(268, 47%, 21%);
+          padding: 10px 15px 10px 230px;
+          border-radius: 10px;
+        }
+
+        nav{
+            display: flex;
+            flex-direction: row;
+            justify-content:space-between ;
+            align-items: center;
+            width: 360px;
+            height: 25px;
+            margin-bottom: 10px;
+        }
+
+        .the1{
+            color:hsl(0, 0%, 100%) ;
+            padding: 0;
+            margin: 0;
+            font-weight: 700;
+            text-align: end;
+            margin-left:292px;
+            letter-spacing: 6px;
+            font-size: 8px;
+        }
+        
+        .the2{
+            color:hsl(60, 10%, 19%);
+            padding: 0;
+            margin: 0;
+            font-weight: 700;
+            text-align: end;
+            margin-left:292px;
+            letter-spacing: 6px;
+            font-size: 8px;
+        }
+        
+        .the3{
+            color: hsl(52, 100%, 62%) ;
+            padding: 0;
+            margin: 0;
+            font-weight: 700;
+            text-align: end;
+            margin-left:292px;
+            letter-spacing: 6px;
+            font-size: 8px;
+        }
+}
